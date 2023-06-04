@@ -11,7 +11,7 @@
 - The STS datasets can be found in `./examples/datasets/` in [Huang's repository](https://github.com/Jun-jie-Huang/WhiteningBERT).
 
 ## Experimental commands
-### whitening_effect
+### PCA plot
 ```
 export VECTOR_PATH=<PATH>
 export OUTPUT_PATH=<PATH>
